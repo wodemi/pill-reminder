@@ -1,0 +1,4 @@
+*.apk
+*.keystore
+*.log
+out/
